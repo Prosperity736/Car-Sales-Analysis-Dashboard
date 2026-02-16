@@ -1,1 +1,4 @@
 # Car-Sales-Analysis-Dashboard
+
+
+This dashboard provides a comprehensive analysis of car pricing, fuel types, and vehicle conditions across multiple brands and models. Luxury brands such as Rolls-Royce, Bentley, and Aston Martin dominate the high-price segment, while Tesla and Porsche lead in popularity. Mileage shows a strong negative correlation with price, confirming expected depreciation trends. Fuel type distribution appears balanced, though petrol vehicles show unusually high average prices, indicating potential data skew. Additionally, pricing differences across vehicle conditions are minimal, suggesting the need for data validation. While the dashboard offers strong exploratory capabilities and filtering options, improvements in KPI summaries, storytelling clarity, and data validation would significantly enhance its executive value and decision-making impact.
